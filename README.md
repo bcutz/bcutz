@@ -3,29 +3,23 @@
 <p><em>Ingenieria en Sistemas <a href="https://www.umg.edu.gt/"> Universidad Mariano Gálvez </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrollador Freelance <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: 96Brayancutz](https://img.shields.io/twitter/url?label=brayan&style=social&link=https://twitter.com/96Brayancutz)](https://twitter.com/96Brayancutz)
-[![Linkedin: BrayanCutz](https://img.shields.io/twitter/url?label=Miguel%20Cutz&logo=linkedin&style=social)](https://www.linkedin.com/in/brayan-cutz)
-[![GitHub bcutz](https://img.shields.io/github/followers/bcutz?label=follow&style=social)](https://github.com/bcutz)
+[![Linkedin Badge](https://img.shields.io/badge/-BrayanCutz-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brayan-cutz-4374621b8/)](https://www.linkedin.com/in/brayan-cutz-4374621b8/)
+[![Twitter Badge](http://img.shields.io/badge/-@96Brayancutz?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/96Brayancutz)](https://twitter.com/96Brayancutz) 
+[![GitHub followers](https://img.shields.io/github/followers/bcutz?label=Follow&style=social)]https://github.com/bcutz/?tab=follow)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi....  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const BrayanCutz = {
+  Tecnologias: [Javascript, HTML, CSS,Java],
+  herramientas: [React, Redux, Node, Styled-Components],
+  desafío: "Estoy en el desafio de aprender nuevos Frameworks relacionados a JavaScript como Angular Js y Vue JS"
+  Pasatiempos: "Me encanta la musica y tambien soy el guitarrista de un grupo musical"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conocer diferentes personas </b> así que si quieres saludar <b>¡estaré feliz de conocerte más!</b> :)</em>
 
 ---
 
