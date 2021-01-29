@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-BrayanCutz-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brayan-cutz-4374621b8/)](https://www.linkedin.com/in/brayan-cutz-4374621b8/)
 [![Twitter Badge](http://img.shields.io/badge/-@96Brayancutz?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/96Brayancutz)](https://twitter.com/96Brayancutz) 
-[![GitHub followers](https://img.shields.io/github/followers/bcutz?label=Follow&style=social)]https://github.com/bcutz/?tab=follow)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi....  
